@@ -13,6 +13,13 @@
         android:layout_centerHorizontal="true"
         android:padding="30dp"
         android:textSize="30dp"/>
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cambios de la rama proyecto git 91 pra que el owner realize el pull request"
+        android:layout_centerHorizontal="true"
+        android:padding="30dp"
+        android:textSize="30dp"/>
 
 
 </RelativeLayout>
